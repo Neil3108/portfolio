@@ -172,7 +172,7 @@ import {
       ],
       image: portfolio,
       source_code_link: "https://github.com/Neil3108/portfolio",
-      website_link: "http://prakhar-sharma-portfolio.s3-website.ca-central-1.amazonaws.com/"      
+      website_link: "https://prakhar-sharma-portfolio.onrender.com/"      
     },
   ];
   
