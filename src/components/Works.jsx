@@ -72,7 +72,7 @@ const Works = () => {
           variants={fadeIn("","", 0.1, 1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Highlighted within my portfolio are select projects exemplifying my skills and experience through real-world instances of my work.Each project is accompanied by concise descriptions and direct links to corresponding code repositories. Simply click on the image to visit the website. The server used to host the backend of Winnipeg Buy and Sell and Winnipeg Autoshop has an auto-shutdown mechanism after 15 minutes of inactivity resulting in a brief reactivation delay upon the initial API call. Kindly consider refreshing the page should an initial blank website. 
+          Highlighted within my portfolio are select projects exemplifying my skills and experience through real-world instances of my work.Each project is accompanied by concise descriptions and direct links to corresponding code repositories. Simply click on the image to visit the website. The server used to host the backend of Winnipeg Buy and Sell and Winnipeg Auto Shop has an auto-shutdown mechanism after 15 minutes of inactivity resulting in a brief 1 - 2 min reactivation delay upon the initial API call. Kindly consider refreshing the page should an initial blank website. 
         </motion.p>
       </div>
       <div className="mt-20 flex flex-wrap gap-7">

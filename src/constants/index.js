@@ -111,18 +111,18 @@ import {
     {
       name: "Winnipeg Auto Shop",
       description:
-        "Web-based platform that allows employees from Winnipeg Auto Shop to log into their account and create tickets for their cusotmers. Employees can log in and add notes to the ticket. The platform with complete with authentication and authorization and only displays options based on user's privileges. Users can be Employees, Managers or Admins. The session timesout after 1 week so the users are required to login again after timeout. Please use username \"test\" and password \"12345\" to log in as admin",
+        "Web-based platform that allows employees from Winnipeg Auto Shop to log into their account and create tickets for their customers. Employees can log in and add notes to the ticket. The platform with complete with authentication and authorization and only displays options based on user's privileges. Users can be Employees, Managers or Admins. The session timeout after 1 week so the users are required to login again after timeout. Please use username \"test\" and password \"12345\" to log in as admin",
       tags: [
         {
-          name: "react",
+          name: "ReactJS",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Mongodb",
           color: "green-text-gradient",
         },
         {
-          name: "javaScript",
+          name: "JavaScript",
           color: "pink-text-gradient",
         },
       ],
@@ -136,15 +136,15 @@ import {
         "A simple buy and sell website similar to Kijiji. The user can post their own listing, look at other listings, send a message to the owner of the listing, edit or delete their existing listing. Each listing has a view counter as well.",
       tags: [
         {
-          name: "angular",
+          name: "Angular",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Mongodb",
           color: "green-text-gradient",
         },
         {
-          name: "javaScript",
+          name: "JavaScript",
           color: "pink-text-gradient",
         },
       ],
