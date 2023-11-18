@@ -87,11 +87,12 @@ import {
       iconBg: "#383E56",
       date: "Jan 2020 - Current",
       points: [
-        "Providing customer service to internal and external customers with focus on process improvement, training and quality assurance of the overall team.",
-        "Designing, implementing and maintaining detailed performance tracking reports and reporting on reoccurring trends using data in PowerBI, WFM software and various databases.",
-        "Creating, implementing training materials along with facilitating the assignment of training schedule and projects.",
-        "Assisted in the development and creation of QA form used for scoring team performance and quality.",
-        "Assisted in the centralization of various data sets into one platform to provide a one stop shop for all team data, including metrics, performance monitoring, absenteeism, contact methods and history on their tenure and accomplishments."
+        "Providing customer service to internal and external customers with a focus on process improvement, training, and overall team quality assurance, along with managing and creating tickets.",
+        "Designing, implementing, and maintaining detailed performance tracking reports, and reporting on recurring trends using data in PowerBI, WFM software, CMS, and various databases.",
+        "Creating and implementing training materials, along with facilitating the assignment of training schedules and projects.",
+        "Assisting in the development and creation of QA forms used for scoring team performance and quality.",
+        "Creating a centralized platform to provide a one-stop-shop for all team data, including metrics, performance monitoring, absenteeism, contact methods, and a history of their tenure and accomplishments.",
+        "Collaborated closely with clients to gather requirements and developed user stories. Subsequently, implemented streamlined processes to enhance overall project efficiency and ensure deliverables were precisely aligned with client expectations."
       ],
     },
     {
@@ -101,8 +102,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Dec 2018 - Jan 2020",
       points: [
-        "Chatting with clients and assists them with queries about vehicle purchase, service, and parts inquiries for dealerships.",
-        "Proficiently furnishing clients with precise and comprehensive details pertaining to the vehicles"
+        "Chatting with clients and assisting them with queries about vehicle purchase, service, and parts inquiries for dealerships.",
+        "Collaborated with team leaders to demonstrate the functionalities of the tools utilized within the department.",
+        "Offers assistance to team members and delivers constructive feedback to improve the quality of service.",
+        "Works together with different teams to identify and report issues related to dashboards."
       ],
     }
   ];
