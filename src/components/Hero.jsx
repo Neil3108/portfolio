@@ -19,7 +19,7 @@ const Hero = () => {
             </span>
           </h1>
             <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-              I am a Full Stack developer with a degree in Computer Science from University of Manitoba
+              I am a web developer and data analyst with a degree in Computer Science from University of Manitoba
             </p>
         </div>
       </div>

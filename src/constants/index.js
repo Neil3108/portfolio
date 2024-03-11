@@ -87,12 +87,18 @@ import {
       iconBg: "#383E56",
       date: "Jan 2020 - Current",
       points: [
-        "Providing customer service to internal and external customers with a focus on process improvement, training, and overall team quality assurance, along with managing and creating tickets.",
-        "Designing, implementing, and maintaining detailed performance tracking reports, and reporting on recurring trends using data in PowerBI, WFM software, CMS, and various databases.",
-        "Creating and implementing training materials, along with facilitating the assignment of training schedules and projects.",
+        "Manipulating and analyzing data gathered from PowerBI, WFM software, CMS, SalesForce, and various large databases to report on recurring trends.",
+        "Designing, implementing, and maintaining detailed performance tracking reports based on the gathered data.",
+        "Automating and continuously improving current processes using macros coded in VBA and other tools. Implementing streamlined processes to enhance overall project efficiency and ensure deliverables are precisely aligned with client expectations.",
+        "Publishing schedules for a team of 45+ members based on their preferences and business needs.",
+        "Build robust forecast demand plans to show daily, weekly and monthly staffing needs.",
+        "Providing customer service to internal and external customers, focusing on process improvement, training, and overall team quality assurance.",
+        "Collaborating closely with clients to gather requirements and develop user stories.",
+        "Managing and creating tickets in JIRA.",
         "Assisting in the development and creation of QA forms used for scoring team performance and quality.",
         "Creating a centralized platform to provide a one-stop-shop for all team data, including metrics, performance monitoring, absenteeism, contact methods, and a history of their tenure and accomplishments.",
-        "Collaborated closely with clients to gather requirements and developed user stories. Subsequently, implemented streamlined processes to enhance overall project efficiency and ensure deliverables were precisely aligned with client expectations."
+        "Creating and implementing training materials.",
+        "Facilitating the assignment of training schedules and projects."
       ],
     },
     {
