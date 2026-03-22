@@ -81,11 +81,19 @@ import {
   
   const experiences = [
     {
+      title: "CRM Administrator",
+      company_name: "Nexom",
+      icon: Nexom,
+      iconBg: "#383E56",
+      date: "Apr 2024 - Current",
+      points: []
+    },
+    {
       title: "Senior Online Agent",
       company_name: "RAPID RTC a Keyloop company",
       icon: RapidRTC,
       iconBg: "#383E56",
-      date: "Jan 2020 - Current",
+      date: "Jan 2020 - Apr 2024",
       points: [
         "Manipulating and analyzing data gathered from PowerBI, WFM software, CMS, SalesForce, and various large databases to report on recurring trends.",
         "Designing, implementing, and maintaining detailed performance tracking reports based on the gathered data.",
