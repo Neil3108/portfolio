@@ -10,6 +10,7 @@ import {
     mongodb,
     git,
     RapidRTC,
+    Nexom,
     portfolio,
     threejs,
     buyAndSell,
