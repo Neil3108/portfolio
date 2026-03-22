@@ -16,6 +16,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import RapidRTC from "./company/RapidRTC.png";
+import Nexom from "./company/Nexom.jpg";
 
 import portfolio from "./portfolio.png";
 import autoRepair from "./winnipegautorepair.png"
