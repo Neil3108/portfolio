@@ -38,6 +38,7 @@ export {
   typescript,
   threejs,
   RapidRTC,
+  Nexom,
   portfolio,
   buyAndSell,
   autoRepair
