@@ -87,7 +87,18 @@ import {
       icon: Nexom,
       iconBg: "#383E56",
       date: "Apr 2024 - Current",
-      points: []
+      points: [
+        "Onboard new users into Salesforce, including account provisioning, permission configuration, and delivering hands-on training sessions tailored to each team's workflows.",
+        "Design and build custom Salesforce solutions including custom objects, Lightning flows, and apps to automate business processes and meet evolving user requirements.",
+        "Develop Power Automate flows to streamline cross-platform processes and build Power BI dashboards and reports to deliver actionable insights from Salesforce and other business data sources.",
+        "Build and maintain API integrations connecting Salesforce with third-party platforms including Smartsheet (project management) to enable seamless data flow across systems.",
+        "Lead end-to-end data integration for newly acquired companies, including data discovery, schema analysis, migration into Salesforce, and user training — successfully integrated 4 companies to date.",
+        "Write Apex code to implement complex business logic, custom triggers, and backend processes that extend Salesforce beyond declarative configuration.",
+        "Build and maintain Salesforce reports and dashboards that surface real-time pipeline, sales, and operational metrics, enabling data-driven decisions across the organization.",
+        "Configure and manage Salesforce marketing campaigns and support the sales team in lead management, ensuring accurate tracking of the full sales funnel from prospect to close.",
+        "Leverage advanced Excel capabilities (pivot tables, complex formulas, Power Query) for ad hoc data analysis, reporting, and data preparation tasks across business units.",
+        "Maintain system governance by enforcing naming conventions, managing picklist values, and keeping user guides and documentation current to support scalability across operating companies."
+      ]
     },
     {
       title: "Senior Online Agent",
