@@ -21,6 +21,8 @@ import Nexom from "./company/Nexom.jpg";
 import portfolio from "./portfolio.png";
 import autoRepair from "./winnipegautorepair.png"
 import buyAndSell from "./winnipegbuyandsell.png"
+import adventureworks from "./adventureworks.png"
+import TelcoCustomerChurnAnalysis from "./TelcoCustomerChurnAnalysis.png"
 
 export {
   logo,
@@ -42,5 +44,7 @@ export {
   Nexom,
   portfolio,
   buyAndSell,
-  autoRepair
+  autoRepair,
+  adventureworks,
+  TelcoCustomerChurnAnalysis
 };

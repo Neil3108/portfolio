@@ -14,7 +14,9 @@ import {
     portfolio,
     threejs,
     buyAndSell,
-    autoRepair
+    autoRepair,
+    adventureworks,
+    TelcoCustomerChurnAnalysis
   } from "../assets";
   
   export const navLinks = [
@@ -137,6 +139,81 @@ import {
   ];
   
   const projects = [
+    {
+      name: "Customer Churn Prediction Pipeline",
+      description:"An end-to-end data pipeline for a telecom company's customer churn problem. Engineered a modular ETL system in Python to ingest, clean, and load 7,000+ customer records into a SQLite database. Performed exploratory analysis to identify key churn drivers - contract type, tenure, and monthly charges. Trained and evaluated XGBoost and Logistic Regression models achieving 0.836 ROC-AUC. Deployed as an interactive web app with a live prediction interface and EDA dashboard.",
+      tags: [
+        {
+          name: "Python",
+          color: "orange-text-gradient",
+        },
+        {
+          name: "XGBoost",
+          color: "green-text-gradient",
+        },
+        {
+          name: "ETL",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "SQLite",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Pandas",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Scikit-learn",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Machine Learning",
+          color: "pink-text-gradient",
+        }
+      ],
+      image: TelcoCustomerChurnAnalysis,
+      source_code_link: "https://github.com/Neil3108/telco-churn-analysis",
+      website_link: "https://prakhar-sharma-telco-churn-analysis-gaj5kzaej5v4krfqtxymu6.streamlit.app/"
+    },
+    {
+      name: "Sales Analytics Dashboard - SQL, Power BI & Streamlit",
+      description:
+        "End-to-end business intelligence project built on Microsoft's AdventureWorks dataset. Designed an analytics schema in SQL Server using CTEs and window functions, built a star schema data model in Power BI with DAX time intelligence measures, and deployed an interactive Streamlit dashboard with Plotly visualizations. Features RFM customer segmentation, month-over-month revenue analysis, and product performance tracking across three dashboard pages.",
+      tags: [
+        {
+          name: "SQL Server",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "PowerBI",
+          color: "green-text-gradient",
+        },
+        {
+          name: "DAX",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Python",
+          color: "orange-text-gradient",
+        },
+        {
+          name: "Streamlit",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Plotly",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Pandas",
+          color: "pink-text-gradient",
+        }
+      ],
+      image: adventureworks,
+      source_code_link: "https://github.com/Neil3108/sql-powerbi-sales-analytics",
+      website_link: "https://sql-powerbi-sales-analytics-rrs2rxsbejear2mxdznyua.streamlit.app/"
+    },
     {
       name: "Winnipeg Auto Shop",
       description:
