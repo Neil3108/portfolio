@@ -15,13 +15,20 @@ const About = () => {
         <h2 className={styles.sectionHeadText}>
           Overview</h2>
       </motion.div>
-      <motion.p 
+      <motion.div
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Full Stack Developer with a strong foundation in TypeScript, Python, Java, JavaScript, C++, and MongoDB and a strong background in customer service, data analysis, database management, programming and workforce management. Possesses excellent communication and interpersonal skills. Proven ability to anticipate customer needs, build relationships and exceed performance goals. Highly organized and motivated to exceed expectations. Motivated and logical individual talented in data analysis, data modeling, and data visualization. Experienced in using various tools such as PowerBI, Microsoft Excel, and Python to obtain insights from data. Proven history of developing actionable insights from data to drive business decisions.
-        
-      </motion.p>
+        <p className='mb-4'>
+          I'm a CRM Developer and Data Analyst based in Winnipeg with a B.S. in Computer Science (Database Management specialization). I specialize in building robust backend systems and data pipelines - from Salesforce customization (Apex, LWC, Lightning Flows, REST API integrations) to SQL-based data modeling, Power BI dashboards, and workflow automation with Power Automate.
+        </p>
+        <p className='mb-4'>
+          Currently at Nexom, I design and build custom Salesforce solutions, develop Power Automate flows for cross-platform automation, and maintain API integrations connecting Salesforce with third-party platforms like Smartsheet and Epicor. I also lead end-to-end data integration for newly acquired companies - handling data discovery, schema analysis, migration and build Power BI dashboards that surface real-time pipeline and operational metrics across the organization.
+        </p>
+        <p>
+          Outside of work, I enjoy building data-focused personal projects that let me explore areas like business intelligence, data modeling, and analytics engineering - bridging the gap between raw data and meaningful insight.
+        </p>
+      </motion.div>
     </>
   )
 }

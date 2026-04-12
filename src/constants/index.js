@@ -1,6 +1,5 @@
 import {
     javascript,
-    typescript,
     html,
     css,
     reactjs,
@@ -9,10 +8,12 @@ import {
     nodejs,
     mongodb,
     git,
+    Apex,
+    PowerBI,
+    Salesforce,
     RapidRTC,
     Nexom,
     portfolio,
-    threejs,
     buyAndSell,
     autoRepair,
     adventureworks,
@@ -36,50 +37,18 @@ import {
 
   
   const technologies = [
-    {
-      name: "HTML",
-      icon: html,
-    },
-    {
-      name: "CSS",
-      icon: css,
-    },
-    {
-      name: "JavaScript",
-      icon: javascript,
-    },
-    {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
-      name: "React JS",
-      icon: reactjs,
-    },
-    {
-      name: "PostgreSQL",
-      icon: PostgreSQL,
-    },
-    {
-      name: "Python",
-      icon: Python,
-    },
-    {
-      name: "Node JS",
-      icon: nodejs,
-    },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
-      name: "git",
-      icon: git,
-    }
+    { name: "HTML",       icon: html },
+    { name: "CSS",        icon: css },
+    { name: "JavaScript", icon: javascript },
+    { name: "React JS",   icon: reactjs },
+    { name: "PostgreSQL", icon: PostgreSQL },
+    { name: "Node JS",    icon: nodejs },
+    { name: "Python",     icon: Python },
+    { name: "MongoDB",    icon: mongodb },
+    { name: "Git",        icon: git },
+    { name: "Apex",       icon: Apex },
+    { name: "Power BI",   icon: PowerBI },
+    { name: "Salesforce", icon: Salesforce },
   ];
   
   const experiences = [

@@ -14,7 +14,7 @@ const App = () => {
         <Experience/>
         <div className={`${styles.padding} max-w-7xl mx-auto relative z-0`}>
           <p className={styles.heroSubText}>
-            Languages I know
+            Technologies I work with
           </p>
         </div>
         <Tech/>

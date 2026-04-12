@@ -12,8 +12,10 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import PostgreSQL from "./tech/PostgreSQL.png";
 import Python from "./tech/Python.jpeg";
-import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import Apex from "./tech/apex.png";
+import PowerBI from "./tech/powerbi.png";
+import Salesforce from "./tech/salesforce.png";
+
 
 import RapidRTC from "./company/RapidRTC.png";
 import Nexom from "./company/Nexom.jpg";
@@ -38,8 +40,9 @@ export {
   reactjs,
   PostgreSQL,
   Python,
-  typescript,
-  threejs,
+  Apex,
+  PowerBI,
+  Salesforce,
   RapidRTC,
   Nexom,
   portfolio,
