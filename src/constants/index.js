@@ -110,7 +110,7 @@ import {
   const projects = [
     {
       name: "Customer Churn Prediction Pipeline",
-      description:"An end-to-end data pipeline for a telecom company's customer churn problem. Engineered a modular ETL system in Python to ingest, clean, and load 7,000+ customer records into a SQLite database. Performed exploratory analysis to identify key churn drivers - contract type, tenure, and monthly charges. Trained and evaluated XGBoost and Logistic Regression models achieving 0.836 ROC-AUC. Deployed as an interactive web app with a live prediction interface and EDA dashboard. This app does go to sleep due to inactivity, please press the \"Yes, get this app back up!\" button to wake the app once on the project website.\n To view the Python code and full README, please visit the GitHub repository by clicking the GitHub logo in the top right of the project card.",
+      description:"An end-to-end data pipeline for a telecom company's customer churn problem. Engineered a modular ETL system in Python to ingest, clean, and load 7,000+ customer records into a SQLite database. Performed exploratory analysis to identify key churn drivers - contract type, tenure, and monthly charges. Trained and evaluated XGBoost and Logistic Regression models achieving 0.836 ROC-AUC. Deployed as an interactive web app with a live prediction interface and EDA dashboard. This app does go to sleep due to inactivity, please press the \"Yes, get this app back up!\" button to wake the app once on the project website. To view the Python code and full README, please visit the GitHub repository by clicking the GitHub logo in the top right of the project card.",
       tags: [
         {
           name: "Python",
@@ -148,7 +148,7 @@ import {
     {
       name: "Sales Analytics Dashboard - SQL, Power BI & Streamlit",
       description:
-        "End-to-end business intelligence project built on Microsoft's AdventureWorks dataset. Designed an analytics schema in SQL Server using CTEs and window functions, built a star schema data model in Power BI with DAX time intelligence measures, and deployed an interactive Streamlit dashboard with Plotly visualizations. Features RFM customer segmentation, month-over-month revenue analysis, and product performance tracking across three dashboard pages. This app does go to sleep due to inactivity, please press the \"Yes, get this app back up!\" button to wake the app once on the project website.\nTo view the SQL code, PowerBI file and the full README, please visit the GitHub repository by clicking the GitHub logo in the top right of the project card.",
+        "End-to-end business intelligence project built on Microsoft's AdventureWorks dataset. Designed an analytics schema in SQL Server using CTEs and window functions, built a star schema data model in Power BI with DAX time intelligence measures, and deployed an interactive Streamlit dashboard with Plotly visualizations. Features RFM customer segmentation, month-over-month revenue analysis, and product performance tracking across three dashboard pages. This app does go to sleep due to inactivity, please press the \"Yes, get this app back up!\" button to wake the app once on the project website.To view the SQL code, PowerBI file and the full README, please visit the GitHub repository by clicking the GitHub logo in the top right of the project card.",
       tags: [
         {
           name: "SQL Server",
