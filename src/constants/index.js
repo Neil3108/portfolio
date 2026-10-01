@@ -53,7 +53,7 @@ import {
   
   const experiences = [
     {
-      title: "CRM Administrator",
+      title: "CRM Administrator And Automation Specialist",
       company_name: "Nexom",
       icon: Nexom,
       iconBg: "#383E56",
